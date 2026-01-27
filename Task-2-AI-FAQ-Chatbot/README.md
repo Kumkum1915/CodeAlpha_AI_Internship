@@ -67,5 +67,4 @@ Domain: Artificial Intelligence
 
 I would like to thank CodeAlpha for providing this internship opportunity and guidance.
 
-Project Screenshot 
-![Chatbot Output](screenshot.png)
+
