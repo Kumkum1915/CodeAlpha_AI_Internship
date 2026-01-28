@@ -41,4 +41,5 @@ if st.button("Translate"):
 
         # Copy option
         st.code(translated_text)
+
         
