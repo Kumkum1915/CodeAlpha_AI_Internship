@@ -1,46 +1,47 @@
-# 🌍 AI Language Translation Tool
+# CodeAlpha AI Internship
 
-This project is an Artificial Intelligence based Language Translation Tool developed using Python and Streamlit.  
-It uses Natural Language Processing (NLP) techniques and a pre-trained Neural Machine Translation model to translate text between multiple languages.
-
----
-
-## 📌 Internship Task
-- **Domain:** Artificial Intelligence
-- **Task:** Language Translation Tool
-- **Objective:** To translate text from one language to another using AI-based translation models.
+This repository contains the tasks completed during the **CodeAlpha AI Internship** using Python and Artificial Intelligence concepts.
 
 ---
 
-## 🚀 Features
-- Translate text between different languages
-- Select source and target languages
-- Simple and interactive web interface
-- Fast and accurate translation
-- Copy translated text easily
+## 📌 Tasks Overview
+
+### 🔹 Task 1: Language Translation Tool
+An AI-based language translation tool built using **Python, Streamlit, and NLP** techniques.  
+It allows users to translate text between multiple languages.
+
+📁 Folder: `Task-1-Language Translation Tool`
+
+**Features:**
+- Multiple language support
+- Simple and interactive UI
+- NLP-based translation
 
 ---
 
-## 🧠 Artificial Intelligence Concepts Used
-- Natural Language Processing (NLP)
-- Neural Machine Translation
-- Pre-trained AI Language Models
+### 🔹 Task 2: AI FAQ Chatbot
+An AI-powered FAQ chatbot developed using **Python** that answers predefined questions intelligently.
 
+📁 Folder: `Task-2-AI-FAQ-Chatbot`
+
+**Features:**
+- Question–answer matching
+- Easy to extend FAQs
+- Beginner-friendly AI project
+  
 ---
 
 ## 🛠️ Technologies Used
-- Python 3.11
-- Streamlit (for web interface)
-- Deep Translator (AI-based translation)
+- Python
+- Streamlit
+- Natural Language Processing (NLP)
 
 ---
 
-## ▶️ How to Run the Project
+## 👩‍💻 Intern
+**Kumkum Gupta**
 
-1. Clone or download the repository
-2. Open the project folder in VS Code
-3. Open the terminal in VS Code
-4. Install required libraries:
+---
 
-```bash
-pip install -r requirements.txt
+## 🔗 GitHub Repository
+This repository is submitted as part of the CodeAlpha AI Internship program.
